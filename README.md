@@ -1,2 +1,2 @@
 # Mathematics
-HackerRank Solutio for mathematics
+HackerRank Solution for mathematics
